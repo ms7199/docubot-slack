@@ -1,0 +1,9 @@
+slack-bolt
+python-dotenv
+pymongo
+PyPDF2
+pinecone
+langchain
+langchain-huggingface
+langchain-groq
+sentence-transformers
